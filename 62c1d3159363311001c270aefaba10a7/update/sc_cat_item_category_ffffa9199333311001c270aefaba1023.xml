@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
     <sc_cat_item_category action="INSERT_OR_UPDATE">
-        <sc_cat_item display_value="Submit Legacy Link Record">c1fea5d59333311001c270aefaba1067</sc_cat_item>
+        <sc_cat_item display_value="Submit Family Record Request">c1fea5d59333311001c270aefaba1067</sc_cat_item>
         <sc_category display_value="Quick Links">91a9e0510a0a3c7401d20d86782fc9a0</sc_category>
         <sys_class_name>sc_cat_item_category</sys_class_name>
         <sys_created_by>admin</sys_created_by>
