@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Adult, child, or pet">377f49d29373311001c270aefaba1047</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-19 23:47:15</sys_created_on>
+        <sys_id>17df41169373311001c270aefaba1032</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope display_value="LegacyLink">62c1d3159363311001c270aefaba10a7</sys_scope>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-19 23:47:15</sys_updated_on>
+        <text>Child</text>
+        <value>child</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=17df41169373311001c270aefaba1032"/>
+</record_update>

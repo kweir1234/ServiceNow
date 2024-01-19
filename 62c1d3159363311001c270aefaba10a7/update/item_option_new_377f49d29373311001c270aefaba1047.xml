@@ -9,7 +9,7 @@
         <choice_table/>
         <create_roles/>
         <default_html_value/>
-        <default_value/>
+        <default_value>adult</default_value>
         <delete_roles/>
         <delivery_plan/>
         <description/>
@@ -21,7 +21,7 @@
         <dynamic_value_field/>
         <enable_also_request_for>false</enable_also_request_for>
         <example_text/>
-        <field>last_name</field>
+        <field/>
         <global>false</global>
         <help_tag>More information</help_tag>
         <help_text/>
@@ -38,16 +38,16 @@
         <macro/>
         <macroponent/>
         <mandatory>true</mandatory>
-        <map_to_field>true</map_to_field>
+        <map_to_field>false</map_to_field>
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
-        <name>last_name</name>
-        <order>200</order>
+        <name>adult_child_or_pet</name>
+        <order>700</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
         <published_ref/>
-        <question_text>Last name</question_text>
+        <question_text>Adult, child, or pet</question_text>
         <read_only>false</read_only>
         <read_roles/>
         <read_script/>
@@ -56,8 +56,8 @@
         <record/>
         <record_producer_table>x_1021848_legacyli_family_records</record_producer_table>
         <reference/>
-        <reference_qual>undefined</reference_qual>
-        <reference_qual_condition>undefined</reference_qual_condition>
+        <reference_qual/>
+        <reference_qual_condition/>
         <rich_text/>
         <roles_to_use_also_request_for/>
         <save_script><![CDATA[/** This script is executed before the Record is generated
@@ -75,19 +75,19 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-01-17 00:14:13</sys_created_on>
-        <sys_id>5329b1d19373311001c270aefaba1086</sys_id>
-        <sys_mod_count>4</sys_mod_count>
-        <sys_name>Last name</sys_name>
+        <sys_created_on>2024-01-19 23:47:14</sys_created_on>
+        <sys_id>377f49d29373311001c270aefaba1047</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Adult, child, or pet</sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="LegacyLink">62c1d3159363311001c270aefaba10a7</sys_scope>
-        <sys_update_name>item_option_new_5329b1d19373311001c270aefaba1086</sys_update_name>
+        <sys_update_name>item_option_new_377f49d29373311001c270aefaba1047</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-01-19 23:47:46</sys_updated_on>
         <table/>
         <tooltip/>
-        <type>6</type>
+        <type>5</type>
         <ui_page/>
         <unique>false</unique>
         <use_dynamic_default>false</use_dynamic_default>
@@ -103,22 +103,22 @@
         <visible_summary>true</visible_summary>
         <write_roles/>
     </item_option_new>
-    <sys_translated_text action="delete_multiple" query="documentkey=5329b1d19373311001c270aefaba1086"/>
-    <fx_price action="delete_multiple" query="id=5329b1d19373311001c270aefaba1086"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=377f49d29373311001c270aefaba1047"/>
+    <fx_price action="delete_multiple" query="id=377f49d29373311001c270aefaba1047"/>
     <fx_price action="INSERT_OR_UPDATE">
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>price_if_checked</field>
-        <id>5329b1d19373311001c270aefaba1086</id>
+        <id>377f49d29373311001c270aefaba1047</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-01-17 00:14:13</sys_created_on>
-        <sys_id>014935d19373311001c270aefaba102e</sys_id>
+        <sys_created_on>2024-01-19 23:47:15</sys_created_on>
+        <sys_id>57df41169373311001c270aefaba102a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-17 00:14:13</sys_updated_on>
+        <sys_updated_on>2024-01-19 23:47:15</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
@@ -126,16 +126,16 @@
         <amount>0</amount>
         <currency display_value="USD">USD</currency>
         <field>rec_price_if_checked</field>
-        <id>5329b1d19373311001c270aefaba1086</id>
+        <id>377f49d29373311001c270aefaba1047</id>
         <parent/>
         <reference_amount>0</reference_amount>
         <reference_currency display_value="USD">USD</reference_currency>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-01-17 00:14:13</sys_created_on>
-        <sys_id>c14935d19373311001c270aefaba102d</sys_id>
+        <sys_created_on>2024-01-19 23:47:15</sys_created_on>
+        <sys_id>1bdf41169373311001c270aefaba1029</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-01-17 00:14:13</sys_updated_on>
+        <sys_updated_on>2024-01-19 23:47:15</sys_updated_on>
         <table>item_option_new</table>
         <type>calculated</type>
     </fx_price>
