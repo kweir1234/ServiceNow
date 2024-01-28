@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <acls/>
+        <active>false</active>
+        <annotation/>
+        <attributes>labelCacheCleanUpExecuted=true</attributes>
+        <callable_by_client_api>false</callable_by_client_api>
+        <category/>
+        <compiler_build/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Approval flow based on family record request</description>
+        <internal_name>legacylink_family_record_request_flow</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>LegacyLink Family Record Request Flow</name>
+        <natlang/>
+        <outputs/>
+        <pre_compiled>false</pre_compiled>
+        <remote_trigger_id/>
+        <run_as>user</run_as>
+        <run_with_roles/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>false</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 02:10:05</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>7b80f95a93f3311001c270aefaba10fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>LegacyLink Family Record Request Flow</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="LegacyLink" source="x_1021848_legacyli">62c1d3159363311001c270aefaba10a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LegacyLink">62c1d3159363311001c270aefaba10a7</sys_scope>
+        <sys_update_name>sys_hub_flow_7b80f95a93f3311001c270aefaba10fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 02:10:05</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_variable_value action="delete_multiple" query="document_key=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_trigger_instance action="delete_multiple" query="flow=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_flow_stage action="delete_multiple" query="flow=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_flow_cat_variable_model action="delete_multiple" query="id=7b80f95a93f3311001c270aefaba10fc^sys_idNOT INb780f95a93f3311001c270aefaba10fe"/>
+    <sys_flow_cat_variable_model action="INSERT_OR_UPDATE">
+        <id>7b80f95a93f3311001c270aefaba10fc</id>
+        <name>LegacyLink Family Record Request Flow</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-20 02:10:05</sys_created_on>
+        <sys_id>b780f95a93f3311001c270aefaba10fe</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_scope/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-20 02:10:05</sys_updated_on>
+    </sys_flow_cat_variable_model>
+    <sys_flow_cat_variable action="delete_multiple" query="flow_catalog_model=b780f95a93f3311001c270aefaba10fe"/>
+    <sys_hub_flow_input action="delete_multiple" query="model=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_flow_output action="delete_multiple" query="model=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_alias_mapping action="delete_multiple" query="source_id=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_action_instance action="delete_multiple" query="flow=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_sub_flow_instance action="delete_multiple" query="flow=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_flow_logic action="delete_multiple" query="flow=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_pill_compound action="delete_multiple" query="attached_to=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_hub_flow_variable action="delete_multiple" query="model=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_input_7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_input_7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_documentation action="delete_multiple" query="name=var__m_sys_hub_flow_output_7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_choice action="delete_multiple" query="name=var__m_sys_hub_flow_output_7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_flow_trigger_plan action="delete_multiple" query="plan_id=7b80f95a93f3311001c270aefaba10fc"/>
+    <sys_flow_subflow_plan action="delete_multiple" query="plan_id=7b80f95a93f3311001c270aefaba10fc"/>
+</record_update>

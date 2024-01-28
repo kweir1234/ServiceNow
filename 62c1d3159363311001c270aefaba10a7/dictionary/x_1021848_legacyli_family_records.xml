@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="bc4fdbd193a3311001c270aefaba10a5" extends="sys_user" label="Family Records" max_length="40" name="x_1021848_legacyli_family_records" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Personal Message" max_length="40" name="u_audio_1" type="audio"/>
+        <element label="Insert Will?" max_length="40" name="u_boolean_5" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+        <element label="Will Attachment" max_length="40" name="u_file_attachment_2" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="Birth Date" max_length="40" name="u_glide_date_1" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Death Date" max_length="40" name="u_glide_date_2" type="glide_date"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="Beneficiary" max_length="1024" name="u_glide_list_7" reference="sys_user" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="Parent" max_length="32" name="u_reference_3" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="255" name="u_string_full_utf8_2" type="string_full_utf8"/>
+        <index name="index">
+            <element name="u_reference_3"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="05b79ade93e7711001c270aefaba10cc" sys_domain="global" table="x_1021848_legacyli_family_records" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 18:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>49b79ade93e7711001c270aefaba10cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1021848_legacyli_family_records" name="x_1021848_legacyli_family_records" sys_domain="global" view="b2dc6c709f002200f45c7b9ac42e70e5">05b79ade93e7711001c270aefaba10cc</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021848_legacyli_family_records" sys_domain="global" view="b2dc6c709f002200f45c7b9ac42e70e5">45b79ade93e7711001c270aefaba10ca</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 18:45:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 18:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>45b79ade93e7711001c270aefaba10d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1021848_legacyli_family_records" name="x_1021848_legacyli_family_records" sys_domain="global" view="b2dc6c709f002200f45c7b9ac42e70e5">05b79ade93e7711001c270aefaba10cc</sys_ui_form>
+            <sys_ui_section caption="Additional Information" display_value="Additional Information" name="x_1021848_legacyli_family_records" sys_domain="global" view="b2dc6c709f002200f45c7b9ac42e70e5">09b79ade93e7711001c270aefaba10cb</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 18:45:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-17 01:52:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2aaf861d93b3311001c270aefaba10ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1021848_legacyli_family_records" name="x_1021848_legacyli_family_records" sys_domain="global" view="b2dc6c709f002200f45c7b9ac42e70e5">05b79ade93e7711001c270aefaba10cc</sys_ui_form>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_1021848_legacyli_family_records" sys_domain="global" view="b2dc6c709f002200f45c7b9ac42e70e5">66af861d93b3311001c270aefaba10ab</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-17 01:52:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1021848_legacyli_family_records</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-01-07 18:45:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>05b79ade93e7711001c270aefaba10cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1021848_legacyli_family_records</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LegacyLink" source="x_1021848_legacyli">62c1d3159363311001c270aefaba10a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LegacyLink">62c1d3159363311001c270aefaba10a7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_05b79ade93e7711001c270aefaba10cc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-01-07 18:45:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Admin View" name="admin_view">b2dc6c709f002200f45c7b9ac42e70e5</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

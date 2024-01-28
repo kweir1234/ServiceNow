@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1021848_legacyli_family_records">x_1021848_legacyli_family_records</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>FAM</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-04 21:24:09</sys_created_on>
+        <sys_id>814fdbd193a3311001c270aefaba10eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FAM</sys_name>
+        <sys_package display_value="LegacyLink" source="x_1021848_legacyli">62c1d3159363311001c270aefaba10a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LegacyLink">62c1d3159363311001c270aefaba10a7</sys_scope>
+        <sys_update_name>sys_number_814fdbd193a3311001c270aefaba10eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-04 21:24:09</sys_updated_on>
+    </sys_number>
+</record_update>

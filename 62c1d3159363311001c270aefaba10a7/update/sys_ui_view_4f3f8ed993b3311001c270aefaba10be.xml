@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Child_View</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-01-17 01:50:12</sys_created_on>
+        <sys_id>4f3f8ed993b3311001c270aefaba10be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Child View</sys_name>
+        <sys_package display_value="LegacyLink" source="x_1021848_legacyli">62c1d3159363311001c270aefaba10a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="LegacyLink">62c1d3159363311001c270aefaba10a7</sys_scope>
+        <sys_update_name>sys_ui_view_4f3f8ed993b3311001c270aefaba10be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-01-17 01:50:12</sys_updated_on>
+        <title>Child View</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
