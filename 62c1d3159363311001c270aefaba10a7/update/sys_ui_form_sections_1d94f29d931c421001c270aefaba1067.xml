@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="1d94f29d931c421001c270aefaba1067" sys_domain="global" table="x_1021848_legacyli_family_records" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-11 01:04:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1594369d931c421001c270aefaba100d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1021848_legacyli_family_records" name="x_1021848_legacyli_family_records" sys_domain="global" view="Default view">1d94f29d931c421001c270aefaba1067</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1021848_legacyli_family_records" sys_domain="global" view="Default view">6c3ee75193e3311001c270aefaba1073</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-11 01:04:46</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1021848_legacyli_family_records</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-11 01:04:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1d94f29d931c421001c270aefaba1067</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1021848_legacyli_family_records</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="LegacyLink" source="x_1021848_legacyli">62c1d3159363311001c270aefaba10a7</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="LegacyLink">62c1d3159363311001c270aefaba10a7</sys_scope>
+            <sys_update_name>sys_ui_form_sections_1d94f29d931c421001c270aefaba1067</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-11 01:04:46</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
